@@ -1,2 +1,1 @@
-# Precourse-Henry
-Este es una prueba del modulo2 de Precourse Henry 
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde gihub a mi computadora.
